@@ -43,6 +43,8 @@ The system detects and classifies products (*Milo* and *Chivita*) moving on a co
 | **SolidWorks**      | Design of robotic arm parts                 |
 | **Arduino IDE**     | Programming ESP32 microcontroller           |
 
+
+![Schematic Diagram](https://github.com/FiyinfoluwaDav/Robotic-Sorting-System-/blob/main/Schematic_Diagram.png)
 ---
 
 
