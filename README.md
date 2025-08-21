@@ -5,7 +5,8 @@ This project focused on integrating **computer vision**, **robotics**, and **emb
 ## 🔍 Project Overview
 
 The system detects and classifies products (*Milo* and *Chivita*) moving on a conveyor using a YOLOv11 object detection model, then sorts them with a 2-DOF robotic arm controlled by an ESP32 microcontroller.
-![System Image]((https://github.com/FiyinfoluwaDav/Robotic-Sorting-System-/blob/main/media/IMG-20250703-WA0084~2.jpg))
+![System Image](https://github.com/FiyinfoluwaDav/Robotic-Sorting-System-/blob/main/media/IMG-20250703-WA0084~2.jpg)
+
 
 
 ### 🎯 Key Features
